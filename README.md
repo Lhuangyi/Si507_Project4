@@ -8,7 +8,7 @@ In the National Park Website, there are lots of states. For each state, I scrape
 **Name of site 
 **Type of site 
 **Description of site 
-**Name of State
+**Name of State(abbreviation)
 
 ## LOAD DATA
 I used caching for all of my data so I don't make too many requests to the site 
